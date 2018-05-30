@@ -1,10 +1,14 @@
 {
-  "name": "angular-ui-select",  
-  "homepage": "https://github.com/angular-ui/ui-select",
+  "name": "angular-ui-select-ds",  
+  "homepage": "https://github.com/is-aka-konor/ui-select",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/is-aka-konor/ui-select.git"
+  },
   "authors": [
     "AngularUI"
   ],
-  "description": "AngularJS ui-select",
+  "description": "Fork of AngularJS ui-select",
   "main": [
     "dist/select.js",
     "dist/select.css"
